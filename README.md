@@ -1,6 +1,6 @@
 # buttons
 
-A new Flutter project.
+En una pantalla coloca en la parte inferior 3 botones, a cada botón un color diferente al presionar en el envía un mensaje diferente según el botón presionado.
 
 ## Getting Started
 
